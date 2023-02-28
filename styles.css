@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
 .container{
     background-color: yellow;
-    border: solid black 2px;
+    border: solid rgb(0, 0, 0) 1px;
 }
 thead th{
-    border: 1px solid rgb(0, 0, 0);
+    border: solid rgb(0, 0, 0) 1px;
 }
 tbody td{
-    border: 1px solid rgb(0, 0, 0);
+    border:solid rgb(0, 0, 0)  1px;
 }
